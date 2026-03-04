@@ -1,1 +1,3 @@
-# culinary-companion-328075
+# Project Repository
+
+This is the initial README file for the project.
